@@ -11,7 +11,7 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 50,
+      "text_height": 60,
       "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
@@ -27,7 +27,7 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 50,
+      "text_height": 60,
       "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
@@ -46,7 +46,7 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 50,
+      "text_height": 60,
       "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
