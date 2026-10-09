@@ -4,13 +4,13 @@
 
   "default": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
   },
 
   "countries": {
     "KR": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
     }
   },
 
