@@ -10,8 +10,8 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 25,
-      "text_size": 13,
+      "text_height": 30,
+      "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
   },
@@ -25,8 +25,8 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 25,
-      "text_size": 13,
+      "text_height": 30,
+      "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
     }
@@ -43,8 +43,8 @@
       "text_background": "#000000",
       "text_background_opacity": 75,
       "text_width": 250,
-      "text_height": 25,
-      "text_size": 13,
+      "text_height": 30,
+      "text_size": 10,
       "text_bold": true,
       "text_color": "#FFFFFF"
     },
