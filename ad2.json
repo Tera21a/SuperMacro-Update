@@ -4,7 +4,7 @@
 
   "default": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource=",
       "custom_text": true,
       "text": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
       "text_background": "#000000",
@@ -19,7 +19,7 @@
   "countries": {
     "KR": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1037439&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource=",
       "custom_text": true,
       "text": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
       "text_background": "#000000",
@@ -37,7 +37,7 @@
   "_templates": {
     "web": {
       "type": "web",
-      "url": "https://example.com/web-ad"
+      "url": "https://example.com/web-ad",
       "custom_text": true,
       "text": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
       "text_background": "#000000",
