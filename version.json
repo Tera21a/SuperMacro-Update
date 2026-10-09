@@ -1,6 +1,8 @@
 {
-    "version":  "1.1",
-    "download_url":  "https://github.com/Tera21a/SuperMacro-Update/releases/latest/download/SuperMacro_Update.zip",
-    "sha256":  "CD2A2B9055A5A03D5274D7AC4156607F781FA562ED5DAA6984640A30C73B1BD5",
-    "notes":  ""
+  "schema": 1,
+  "version": "1.1",
+  "download_url": "https://github.com/Tera21a/SuperMacro-Update/releases/latest/download/SuperMacro_Update.zip",
+  "sha256": "dd00070c2839944d28b39c828001c79d1a8883f60c4a4cf8db56e796a791290c",
+  "notes": "",
+  "signature": "yr2s5mVsAdRZQfcyMNKSU+zHJmn7BPa2UzQplrQQkvIhQwg65EtOoqzVsHuF8Nv8FKU4loJKl2+f5kqewIgNAw=="
 }
