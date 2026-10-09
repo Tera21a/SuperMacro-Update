@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "refresh_seconds": 300,
+
+  "default": {
+      "type": "web",
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+  },
+
+  "countries": {
+    "KR": {
+      "type": "web",
+      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource="
+    }
+  },
+
+  "_comment": "For example",
+
+  "_templates": {
+    "web": {
+      "type": "web",
+      "url": "https://example.com/web-ad"
+    },
+
+    "image": {
+      "type": "image",
+      "image_url": "https://example.com/ad.png",
+      "click_url": "https://example.com"
+    },
+
+    "gif": {
+      "type": "gif",
+      "image_url": "https://example.com/ad.gif",
+      "click_url": "https://example.com"
+    }
+  }
+}
