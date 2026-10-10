@@ -4,7 +4,7 @@
 
   "default": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource=",
+      "url": "https://supermacro-ad-counter.galam21.workers.dev/ad?slot=1",
       "custom_text": true,
       "text_wrap": true,
       "text": "이 포스팅은 쿠팡 파트너스 활동의 일환으로,\n이에 따른 일정액의 수수료를 제공받습니다.",
@@ -20,7 +20,7 @@
   "countries": {
     "KR": {
       "type": "web",
-      "url": "https://ads-partners.coupang.com/widgets.html?id=1036357&template=carousel&trackingCode=AF1223157&subId=&width=250&height=250&tsource=",
+      "url": "https://supermacro-ad-counter.galam21.workers.dev/ad?slot=1",
       "custom_text": true,
       "text_wrap": true,
       "text": "이 포스팅은 쿠팡 파트너스 활동의 일환으로,\n이에 따른 일정액의 수수료를 제공받습니다.",
