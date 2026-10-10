@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "version": "1.2",
+  "download_url": "https://github.com/Tera21a/SuperMacro-Update/releases/latest/download/SuperMacro_Update.zip",
+  "sha256": "6eba042e3ef0df406c5ee10d6a3ffbaab952e0048b26de8760d9031ba81f1379",
+  "notes": "채팅 매크로 버그 수정 및 프로그램 안정화",
+  "signature": "Dh14np4Lev1E5dCsdheLcBlXrqKcDSst5USgyk04QahwDC7Xo1P1yIV6UrS2mqGdiu0F4zmu2ulje9JBfNhpBA=="
+}
