@@ -83,26 +83,6 @@ Windows용 키보드·마우스 자동화 프로그램
 - 프로그램 안에서 업데이트 확인 기능을 제공하며 자동 확인 여부를 설정할 수 있습니다.
 - **주의:** 전자서명된 업데이트는 Windows 코드 서명(Authenticode)이나 백신 무해성 보증을 뜻하지 않습니다.
 
-### 🛡️ 개인정보 및 온라인 통계
-
-SuperMacro v1.2는 실행 중인 프로그램의 대략적인 수와 국가별 분포를 집계하기 위해 약 **60초 간격**으로 서버에 신호를 전송할 수 있습니다.
-
-- 전송 항목: 실행 세션마다 새로 생성되는 임시 무작위 ID, 프로그램 버전
-- 접속 국가: Cloudflare가 네트워크 요청을 바탕으로 추정
-- 입력한 키, 매크로 문구, 프리셋, 이름, 이메일, 기기 고유번호는 온라인 통계 DB에 저장하지 않음
-- IP 주소는 통신 과정에서 Cloudflare에 전달될 수 있으며 Cloudflare의 자체 로그 정책이 적용될 수 있음
-- 마지막 접속 신호 후 약 **180초**가 지나면 온라인 인원 집계에서 제외
-
-**온라인 통계 전송을 끄는 방법:** 프로그램 `data` 폴더에 `online_presence.json` 파일을 만들고 다음 내용을 저장한 뒤 프로그램을 다시 시작합니다.
-
-```json
-{"enabled": false}
-```
-
-또는 Windows 환경 변수 `SUPER_MACRO_ONLINE_STATS=0`으로 실행할 수 있습니다.
-
-프로그램 내 광고 영역에 외부 콘텐츠가 표시될 수 있으며, 해당 외부 서비스의 정책이 적용될 수 있습니다.
-
 ### ❓ 자주 묻는 질문
 
 <details>
@@ -178,26 +158,6 @@ You can change the language and dark/light appearance in Settings.
 - Invalid or tampered update metadata is rejected before installation.
 - Update checks are available in-app, with a configurable automatic-check setting.
 - **Note:** Signed update metadata is not the same as Windows Authenticode signing and does not guarantee antivirus or SmartScreen approval.
-
-### 🛡️ Privacy & online presence
-
-Starting with v1.2, SuperMacro can send a heartbeat approximately **every 60 seconds** while running to estimate active application sessions and their country distribution.
-
-- Transmitted: a random temporary session ID generated on each launch and the app version
-- Country: estimated by Cloudflare from the incoming network request
-- Key presses, macro messages, presets, names, emails, and persistent device identifiers are **not stored in the presence statistics database**
-- Your IP address may be processed by Cloudflare to handle requests and may be subject to its logging policies
-- Sessions are excluded from the online count approximately **180 seconds** after the last successful heartbeat
-
-**Opt out of online presence statistics:** Create `data/online_presence.json` next to the application with the following content, then restart:
-
-```json
-{"enabled": false}
-```
-
-You can also launch the app with the Windows environment variable `SUPER_MACRO_ONLINE_STATS=0`.
-
-Embedded ad areas may load third-party content, which may be subject to those services' privacy policies.
 
 ### ❓ FAQ
 
