@@ -3,6 +3,6 @@
   "version": "1.5",
   "download_url": "https://github.com/Tera21a/SuperMacro-Update/releases/latest/download/SuperMacro_Update.zip",
   "sha256": "e8e8f08bcf3a5047b41dc7e3af5ec1ff19d1a2be402f31dd909c5238a784a467",
-  "notes": "1. 채팅 매크로 [실행 조건] 관계 없이 실행되도록 수정\n2. 매크로 종료 키 추가 키 설정 기능 추가",
-  "signature": "9N9jaufJrgqtn/001pqkYLQ/b5zS5MK6oAgLLBHff5kTmzADz5RwWbeV/3qG6aTpiviUQLXcV2fpGThOlBm2BQ=="
+  "notes": "1. 채팅 매크로 [실행 조건] 관계 없이 실행되도록 수정\n2. 매크로 시작/정지 키 중복 허용 (토글)\n3. 매크로 종료 키 추가 종료 키 설정 기능 추가",
+  "signature": "M2gV6qVpOeiL/q7FdMoSEzZdTtFr5//F7RTX36jRdbNM97EBy6HAuDPv+CTCYHiXNCBC5KXsk01DdbJDibz5Ag=="
 }
